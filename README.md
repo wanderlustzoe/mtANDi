@@ -24,3 +24,7 @@ P(w3|w1,w2)
 To simplify this for larger units or sequences (which are more life like) we use the Markov Assumption which looks at only the last word (unigram), two words (bigram), trigram (three words)  or more (n-gram) in the sequence.
 
 The more words you take the longer the processing time - hence the need for simplification using the Markov Assumption.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/wanderlustzoe/mtandi/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
